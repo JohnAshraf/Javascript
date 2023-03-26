@@ -39,4 +39,3 @@ indexDiv.appendChild(Done);
 indexDiv.appendChild(deletebutton);
 containerDiv.appendChild(indexDiv)
  }
-
